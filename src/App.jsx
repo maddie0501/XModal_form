@@ -90,7 +90,7 @@ const ModalForm = ({ isClose }) => {
           />
 
           <div style={{padding:"10px"}}>
-            <button type="submit" style={{padding:" 10px 20px 10px 20px", backgroundColor:"royalblue" , border:"none", color:"white", borderRadius:"5px"}}>
+            <button type="submit"  className="submit-button" style={{padding:" 10px 20px 10px 20px", backgroundColor:"royalblue" , border:"none", color:"white", borderRadius:"5px"}}>
               Submit
             </button>
           </div>
